@@ -1,3 +1,3 @@
 # project
-this is my  repositoty
+this is my  repositoty.
 author - omkar kolhe
