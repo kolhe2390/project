@@ -1,2 +1,3 @@
 # project
-this is repositoty
+this is my  repositoty
+author - omkar kolhe
